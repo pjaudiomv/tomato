@@ -1,3 +1,4 @@
+.vscode
 .idea
 *.pyc
 *.iml
@@ -5,3 +6,5 @@
 *.tfstate
 *.tfvars
 *.tfstate.backup
+venv
+*.zip
